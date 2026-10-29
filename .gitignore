@@ -1,0 +1,3 @@
+projects/*
+!projects/.keep
+.DS_Store

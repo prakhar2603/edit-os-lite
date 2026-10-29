@@ -1,0 +1,17 @@
+{
+  "name": "Your name",
+  "handle": "@yourhandle",
+  "colors": {
+    "ink": "#16161A",
+    "paper": "#E9E8E4",
+    "accent": "#D97757",
+    "accentText": "#C2562F",
+    "highlight": "#FFE45C"
+  },
+  "fonts": {
+    "display": "Archivo",
+    "body": "Instrument Sans",
+    "serif": "Instrument Serif"
+  },
+  "logo": null
+}
